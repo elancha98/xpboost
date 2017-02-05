@@ -1,0 +1,12 @@
+name: XpBoosts
+description: Simple plugin
+version: 1.0
+author: CommandCraft
+main: me.commandcraft.xpboost.Main
+
+commands:
+  xpboost:
+    description: used to interact with XpBoosts
+permission:
+  xpboost.admin:
+    default: op
